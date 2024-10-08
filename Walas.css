@@ -1,0 +1,27 @@
+#kontener
+{
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        background-color: aquamarine;
+        text-align: center;
+        
+}
+#lewy
+{
+    width: 50%;
+    height: 100%;
+    background-color: bisque;
+}
+#prawy
+{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(141, 99, 49);
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 50px;
+}
